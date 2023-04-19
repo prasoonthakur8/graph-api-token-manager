@@ -1,0 +1,14 @@
+{
+    "name": "graph-api-token-manager",
+    "version": "1.0.1",
+    "description": "A Node.js package to manage Facebook Graph API tokens.",
+    "main": "lib/token-manager.js",
+    "scripts": {
+      "test": "node test.js"
+    },
+    "dependencies": {
+      "axios": "^0.26.1",
+      "dotenv": "^16.0.0"
+    }
+  }
+  
